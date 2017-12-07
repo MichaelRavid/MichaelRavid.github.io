@@ -1,1 +1,4 @@
-console.log(4+2)
+var portPic= document.querySelector("ul")
+
+console.log(portPic);
+
