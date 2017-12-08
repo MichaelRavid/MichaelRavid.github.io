@@ -17,7 +17,7 @@ body{
 
 }
 /*Home Section*/
-.home-inner{
+#home{
 	padding-top: 105px;
 	text-align: center;
 	padding-bottom: 50px;
@@ -27,14 +27,6 @@ body{
 #logo{
 	align-content: center;
 	border-radius: 150px;
-	animation: move 10s;
-
-}
-
-#logo-container{
-	padding-bottom: 50px;
-
-}
 
 
 #transition1{
