@@ -17,7 +17,7 @@ body{
 
 }
 /*Home Section*/
-#home{
+.home-inner{
 	padding-top: 105px;
 	text-align: center;
 	padding-bottom: 50px;
@@ -27,7 +27,12 @@ body{
 #logo{
 	align-content: center;
 	border-radius: 150px;
+}
 
+#logo-container{
+	padding-bottom: 50px;
+
+}
 
 #transition1{
 	filter: grayscale(100%);
